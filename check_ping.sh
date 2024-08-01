@@ -1,11 +1,11 @@
 #!/bin/sh
 
 # Token bot Telegram dan ID chat
-BOT_TOKEN="6911097861:AAFDmk-TnmjYpGOunWDqOwiqTVR2Q79i3-Y"
-CHAT_ID="478328960"
+BOT_TOKEN="your_bot_token_here"
+CHAT_ID="your_chat_id_here"
 
 # Alamat IP yang akan di-ping
-TARGET_IP="104.18.214.235"
+TARGET_IP="target_ip_here"
 
 # Daftar interface
 INTERFACES="eth1 usb0 usb1"
